@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+.body{
+    font-family: 'Inter', sans-serif;
+}
+.list-group-item {
+    background-color: #28242c;
+    color: white
+}
+.card-body{
+    
+    
+}
+.card-title{
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+.role{
+    color: #F3BF99;
+    
+}
+.website{
+    font-size: 12px;
+    line-height: 20%;   
+                                    
+}
+.btn {
+    padding: 5px 22px;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 20px;
+     
+}
+.icon{
+    padding-right: 7px;
+    font-size: 15px;
+}
+.card-footer{
+    background-color: #3F979B;
+}
+
